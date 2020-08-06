@@ -11,6 +11,8 @@ permalink: /module/BitbucketPS/
 
 BitbucketPS is a Windows PowerShell module to interact with [Atlassian Bitbucket](https://www.atlassian.com/software/bitbucket) via a REST API, while maintaining a consistent PowerShell look and feel.
 
+This module is based on the Bitbucket API documentation located here: [REST API Stack](https://developer.atlassian.com/server/bitbucket/how-tos/command-line-rest/).
+
 Join the conversation on [![SlackLogo][] AtlassianPS.Slack.com](https://atlassianps.org/slack)
 
 [SlackLogo]: https://atlassianps.org/assets/img/Slack_Mark_Web_28x28.png
